@@ -8,6 +8,11 @@
 *.so
 %*
 *.gradle
+# Compiled source #
+###################
+*.com
+*.class
+
 *.ipr
 *.iml
 *.iws
