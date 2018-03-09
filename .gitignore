@@ -9,7 +9,6 @@
 %*
 *.gradle
 *.ipr
-*.iml
 *.iws
 *.idea
 *.project
