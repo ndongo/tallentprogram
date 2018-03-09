@@ -1,3 +1,7 @@
+# Compiled source #
+###################
+*.com
+*.class
 *.dll
 *.exe
 *.o
@@ -20,7 +24,28 @@ gradle
 build
 frontend/dist
 
+# Packages #
+############
+*.7z
+*.dmg
+*.gz
+*.iso
+*.rar
+*.tar
+*.zip
 
+# Logs and databases #
+######################
+*.log
+
+# OS/IDE generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.buildpath
 *.swp
-
-*.somethingelse
