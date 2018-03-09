@@ -2,12 +2,7 @@
 ###################
 *.com
 *.class
-*.dll
-*.exe
-*.o
-*.so
-%*
-*.gradle
+
 *.ipr
 *.iml
 *.iws
