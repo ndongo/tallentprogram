@@ -45,3 +45,6 @@ ehthumbs.db
 Thumbs.db
 .buildpath
 *.swp
+
+target/
+.jar
