@@ -1,3 +1,9 @@
+*.dll
+*.exe
+*.o
+*.so
+%*
+*.gradle
 # Compiled source #
 ###################
 *.com
@@ -16,3 +22,5 @@ frontend/dist
 
 
 *.swp
+
+*.somethingelse
